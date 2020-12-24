@@ -28,3 +28,11 @@ Basic Concept:
 Inheritance
 
 ![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T4_Inheritance/1.png)
+![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T4_Inheritance/2.png)
+![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T4_Inheritance/3.png)
+![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T4_Inheritance/4.png)
+![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T4_Inheritance/5.png)
+![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T4_Inheritance/6.png)
+![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T4_Inheritance/7.png)
+![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T4_Inheritance/8.png)
+![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T4_Inheritance/9.png)
