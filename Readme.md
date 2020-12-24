@@ -27,5 +27,4 @@ Basic Concept:
 
 Inheritance
 
-
 ![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T4_Inheritance/1.png)
