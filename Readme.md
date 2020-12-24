@@ -9,7 +9,7 @@ Basic Concept:
 * [Objects vs Classes]()
 * [Constructor and Destructor]()
 * [Access Modifiers]()
-* [Inheritance]()
+* [Inheritance](https://github.com/SUDOARSDEV/OOP_CSharp/tree/main/T4_Inheritance)
 * [Dependency]()
 * [Abstraction]()
 * [Polymorphism]()
@@ -21,3 +21,6 @@ Basic Concept:
 * [Interface]()
 * [Coupling and Cohesion]()
 * [Generalization and Specialization]()
+
+
+### Images to above Topic
