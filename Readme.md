@@ -26,4 +26,4 @@ Basic Concept:
 ### Images to above Topic
 
 Inheritance
-(https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T4_Inheritance/1.png)
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
