@@ -6,13 +6,13 @@ This is the simplest way to learn OOP in C#. I'm going to highlight some impotar
 
 Basic Concept:
 
-* [Objects vs Classes]()
-* [Constructor and Destructor]()
-* [Access Modifiers]()
+* [Objects vs Classes](https://github.com/SUDOARSDEV/OOP_CSharp/tree/main/T1_ObjectvsClass)
+* [Constructor and Destructor](https://github.com/SUDOARSDEV/OOP_CSharp/tree/main/T2_Constructor_Destructor)
+* [Access Modifiers](https://github.com/SUDOARSDEV/OOP_CSharp/tree/main/T3_Access_Modifier)
 * [Inheritance](https://github.com/SUDOARSDEV/OOP_CSharp/tree/main/T4_Inheritance)
-* [Dependency]()
-* [Abstraction]()
-* [Polymorphism]()
+* [Dependency](https://github.com/SUDOARSDEV/OOP_CSharp/tree/main/T5_Dependency)
+* [Abstraction](https://github.com/SUDOARSDEV/OOP_CSharp/tree/main/T6_Abstraction)
+* [Polymorphism](https://github.com/SUDOARSDEV/OOP_CSharp/tree/main/T7_Polymorphism)
 * [Ecapsulation]() 
 * [Method Overriding]()
 * [Method Overloading]()
@@ -25,7 +25,7 @@ Basic Concept:
 
 ### Images to above Topic
 
-Inheritance
+#Inheritance
 
 ![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T4_Inheritance/1.png)
 ![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T4_Inheritance/2.png)
@@ -36,3 +36,19 @@ Inheritance
 ![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T4_Inheritance/7.png)
 ![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T4_Inheritance/8.png)
 ![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T4_Inheritance/9.png)
+
+
+#Dependency
+
+
+![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T5_Dependency/depend1.png)
+![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T5_Dependency/depend2.png)
+
+
+#Abstraction
+
+![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T6_Abstraction/note.png)
+![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T6_Abstraction/structure.png)
+
+#Polymorphism
+![](https://github.com/SUDOARSDEV/OOP_CSharp/blob/main/T7_Polymorphism/poly.png)
